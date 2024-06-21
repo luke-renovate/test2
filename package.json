@@ -1,7 +1,7 @@
 {
   "name": "test",
   "dependencies": {
-    "airbnb-prop-types": "2.16.0",
+    "prop-types-tools": "2.17.0",
     "left-pad": "1.3.0"
   }
 }
